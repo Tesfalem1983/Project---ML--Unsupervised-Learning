@@ -1,8 +1,7 @@
 # Project - Unsupervised Learning
 
 ## Project Goals:
-#### - Perform unsupervised learning techniques specifically annual spending of product categories on a wholesale data dataset using 
-KMeans clustering, hierarchical clustering, and PCA and communicate insights on the clustering result and what it means for our business.
+#### - Perform unsupervised learning techniques specifically annual spending of product categories on a wholesale data dataset using KMeans clustering, hierarchical clustering, and PCA and communicate insights on the clustering result and what it means for our business.
 
 ## Process:
 ### Step 1: Explanatory Data Analysis:
